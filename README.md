@@ -1,10 +1,10 @@
 ![logo](https://github.com/nvanxndhu/nvanxndhu/blob/main/Add%20a%20heading.png?raw=true)
 <h1 align="center">Hi 👋, I'm Geethu C</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">💻 Enthusiastic coder from India, turning passion into powerful software solutions! 🚀 </h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvanxndhu&label=Profile%20views&color=0e75b6&style=flat" alt="nvanxndhu" /> </p>
 
-- 📈 I’m currently learning *MERN STACK*
+- 🌐 Navigating the *MERN stack*, one code snippet at a time! 🚀💻
 
 <!--- 💬 Ask me about *Basic c, Basic Java,Html,css,JavaScript*-->
 
@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anandhu-nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandhu-nv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anandhuvasudevannv18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandhuvasudevannv18" height="30" width="40" /></a>
-  <a href="https://instagram.com/nv_anxndhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nv_anxndhu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/geethu-subramanyan-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geethu-subramanyan-c" height="30" width="40" /></a>
 
 </p>
 
